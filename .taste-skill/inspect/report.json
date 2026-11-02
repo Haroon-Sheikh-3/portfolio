@@ -1,0 +1,1573 @@
+{
+ "url": "index.html",
+ "at": "2026-11-01T21:27:03.797Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.22,
+    0.34,
+    0.45,
+    0.19,
+    0.2
+   ],
+   "motion": {
+    "elements": 18,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 18,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3688,
+     "screens": 4.1,
+     "words": 257,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "spandrel-panel-from-the-gage-building-chicago.jp",
+      "plan-of-chicago-plate-63-plan-of.jpg",
+      "lenox-building-chicago-illinois-perspective.jpg",
+      "elevator-grille-from-the-chicago-stock-exchange.",
+      "plate-110-from-the-plan-of-chicago.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "chars": 12,
+     "lines": 2,
+     "size": 72,
+     "vw": 5,
+     "font": "Geist",
+     "weight": 400,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 162,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "lines": 2,
+     "size": 72,
+     "font": "Geist"
+    },
+    "headings": [
+     {
+      "text": "Haroon Ahmad",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 162,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "About",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 740,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 1421,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Personal AI Assistant Architecture",
+      "words": 4,
+      "chars": 34,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 2577,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open to opportunities and engineering projects.",
+      "words": 6,
+      "chars": 47,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3276,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      15,
+      17,
+      22,
+      48,
+      72
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist",
+      "size": 17,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7
+     },
+     "measureChars": 68,
+     "max": {
+      "size": 72,
+      "vw": 5,
+      "font": "Geist",
+      "text": "Haroon Ahmad"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0a0a0a",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#9e9990",
+       "share": 0.67
+      },
+      {
+       "color": "#f4f4f5",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#c8ff00",
+      "hsl": {
+       "h": 73,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0a0a0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 51,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get in touch"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1512
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 75,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3688,
+    "margins": {
+     "left": 256,
+     "right": 256
+    },
+    "sections": [
+     {
+      "sel": "header#top.hero",
+      "tag": "header",
+      "top": 75,
+      "height": 553,
+      "words": 30,
+      "media": 1,
+      "middle": 72,
+      "heading": {
+       "text": "Haroon Ahmad",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 256,
+      "right": 256,
+      "textLeft": 256,
+      "textRight": 331,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 628,
+      "height": 682,
+      "words": 80,
+      "media": 0,
+      "middle": 98,
+      "heading": {
+       "text": "About",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 256,
+      "right": 278,
+      "textLeft": 256,
+      "textRight": 278,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work",
+      "tag": "section",
+      "top": 1309,
+      "height": 1155,
+      "words": 29,
+      "media": 4,
+      "middle": 40,
+      "heading": {
+       "text": "Selected Work",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 256,
+      "right": 256,
+      "textLeft": 256,
+      "textRight": 482,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#assistant.assistant",
+      "tag": "section",
+      "top": 2465,
+      "height": 700,
+      "words": 98,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Personal AI Assistant Architecture",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 256,
+      "right": 269,
+      "textLeft": 256,
+      "textRight": 269,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact",
+      "tag": "section",
+      "top": 3164,
+      "height": 406,
+      "words": 20,
+      "media": 0,
+      "middle": 66,
+      "heading": {
+       "text": "Open to opportunities and engineering projects.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 256,
+      "right": 309,
+      "textLeft": 256,
+      "textRight": 309,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Haroon Ahmad",
+      "size": 72,
+      "top": 162,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 256,
+      "n": 11
+     },
+     {
+      "x": 752,
+      "n": 4
+     },
+     {
+      "x": 608,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.2,
+    "voidBox": {
+     "x": 0,
+     "y": 540,
+     "w": 1440,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.55,
+    0.46,
+    0.77,
+    0.89,
+    0.39,
+    0.29
+   ],
+   "motion": {
+    "elements": 18,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 18,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5497,
+     "screens": 5.4,
+     "words": 257,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "spandrel-panel-from-the-gage-building-chicago.jp",
+      "plan-of-chicago-plate-63-plan-of.jpg",
+      "lenox-building-chicago-illinois-perspective.jpg",
+      "elevator-grille-from-the-chicago-stock-exchange.",
+      "plate-110-from-the-plan-of-chicago.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 40,
+     "vw": 5.2,
+     "font": "Geist",
+     "weight": 400,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 123,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "lines": 1,
+     "size": 40,
+     "font": "Geist"
+    },
+    "headings": [
+     {
+      "text": "Haroon Ahmad",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 123,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "About",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1017,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1799,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Personal AI Assistant Architecture",
+      "words": 4,
+      "chars": 34,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4303,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open to opportunities and engineering projects.",
+      "words": 6,
+      "chars": 47,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5087,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      15,
+      17,
+      22,
+      32,
+      40
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist",
+      "size": 17,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 40,
+      "vw": 5.2,
+      "font": "Geist",
+      "text": "Haroon Ahmad"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0a0a0a",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#141414",
+       "top": 382,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.08
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 1873,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#9e9990",
+       "share": 0.67
+      },
+      {
+       "color": "#f4f4f5",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#c8ff00",
+      "hsl": {
+       "h": 73,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0a0a0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 51,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get in touch"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1873
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.44
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 75,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5497,
+    "margins": {
+     "left": 46,
+     "right": 46
+    },
+    "sections": [
+     {
+      "sel": "header#top.hero",
+      "tag": "header",
+      "top": 75,
+      "height": 878,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Haroon Ahmad",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 46,
+      "right": 46,
+      "textLeft": 46,
+      "textRight": 214,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 953,
+      "height": 782,
+      "words": 80,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "About",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 46,
+      "right": 52,
+      "textLeft": 46,
+      "textRight": 52,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work",
+      "tag": "section",
+      "top": 1735,
+      "height": 2504,
+      "words": 29,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Selected Work",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 46,
+      "right": 46,
+      "textLeft": 46,
+      "textRight": 476,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#assistant.assistant",
+      "tag": "section",
+      "top": 4239,
+      "height": 784,
+      "words": 98,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Personal AI Assistant Architecture",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 46,
+      "right": 62,
+      "textLeft": 46,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact",
+      "tag": "section",
+      "top": 5023,
+      "height": 358,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Open to opportunities and engineering projects.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 46,
+      "right": 73,
+      "textLeft": 46,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Haroon Ahmad",
+      "size": 40,
+      "top": 123,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 46,
+      "n": 17
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.49,
+    0.54,
+    0.57,
+    0.57
+   ],
+   "motion": {
+    "elements": 18,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 18,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 980,
+     "h": 2121
+    },
+    "page": {
+     "height": 3205,
+     "screens": 1.5,
+     "words": 257,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "spandrel-panel-from-the-gage-building-chicago.jp",
+      "plan-of-chicago-plate-63-plan-of.jpg",
+      "lenox-building-chicago-illinois-perspective.jpg",
+      "elevator-grille-from-the-chicago-stock-exchange.",
+      "plate-110-from-the-plan-of-chicago.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "chars": 12,
+     "lines": 1,
+     "size": 49,
+     "vw": 5,
+     "font": "Geist",
+     "weight": 400,
+     "tracking": -0.03,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.43,
+     "top": 146,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Haroon Ahmad",
+     "words": 2,
+     "lines": 1,
+     "size": 49,
+     "font": "Geist"
+    },
+    "headings": [
+     {
+      "text": "Haroon Ahmad",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 49,
+      "vw": 5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 146,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "About",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 3.5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 576,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Selected Work",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 3.5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1176,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Personal AI Assistant Architecture",
+      "words": 4,
+      "chars": 34,
+      "lines": 1,
+      "size": 34.3,
+      "vw": 3.5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2209,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Open to opportunities and engineering projects.",
+      "words": 6,
+      "chars": 47,
+      "lines": 2,
+      "size": 34.3,
+      "vw": 3.5,
+      "font": "Geist",
+      "weight": 400,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 2827,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Geist",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      15,
+      17,
+      22,
+      34,
+      49
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Geist",
+      "size": 17,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7
+     },
+     "measureChars": 63,
+     "max": {
+      "size": 49,
+      "vw": 5,
+      "font": "Geist",
+      "text": "Haroon Ahmad"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0a0a0a",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#9e9990",
+       "share": 0.67
+      },
+      {
+       "color": "#f4f4f5",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#c8ff00",
+      "hsl": {
+       "h": 73,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0a0a0a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 51,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get in touch"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1252
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 75,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "geist"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 980,
+     "h": 2121
+    },
+    "pageH": 3205,
+    "margins": {
+     "left": 59,
+     "right": 59
+    },
+    "sections": [
+     {
+      "sel": "header#top.hero",
+      "tag": "header",
+      "top": 75,
+      "height": 422,
+      "words": 30,
+      "media": 1,
+      "middle": 80,
+      "heading": {
+       "text": "Haroon Ahmad",
+       "size": 49,
+       "tag": "h1"
+      },
+      "left": 59,
+      "right": 59,
+      "textLeft": 59,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.about",
+      "tag": "section",
+      "top": 498,
+      "height": 600,
+      "words": 80,
+      "media": 0,
+      "middle": 77,
+      "heading": {
+       "text": "About",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 59,
+      "right": 60,
+      "textLeft": 59,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#work.work",
+      "tag": "section",
+      "top": 1097,
+      "height": 1033,
+      "words": 29,
+      "media": 4,
+      "middle": 40,
+      "heading": {
+       "text": "Selected Work",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 59,
+      "right": 59,
+      "textLeft": 59,
+      "textRight": 252,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#assistant.assistant",
+      "tag": "section",
+      "top": 2131,
+      "height": 618,
+      "words": 98,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Personal AI Assistant Architecture",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 59,
+      "right": 63,
+      "textLeft": 59,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.contact",
+      "tag": "section",
+      "top": 2749,
+      "height": 339,
+      "words": 20,
+      "media": 0,
+      "middle": 175,
+      "heading": {
+       "text": "Open to opportunities and engineering projects.",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 59,
+      "right": 85,
+      "textLeft": 59,
+      "textRight": 85,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Haroon Ahmad",
+      "size": 49,
+      "top": 146,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 59,
+      "n": 11
+     },
+     {
+      "x": 522,
+      "n": 4
+     },
+     {
+      "x": 389,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 17,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Switzer and Switzer, but the page renders Geist.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\HaroonSheikh\\Desktop\\test claude\\.taste-skill\\inspect\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
