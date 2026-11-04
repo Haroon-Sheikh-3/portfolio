@@ -1,0 +1,144 @@
+/* Self-hosted fonts — must precede all other statements */
+@import '../public/fonts/fonts.css' layer(base);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Manual utility overrides for critical classes */
+.inset-0 { inset: 0; }
+.p-4 { padding: 1rem; }
+.text-sm { font-size: 0.875rem; }
+.bg-back { background: var(--bg); }
+
+:root {
+  --bg: oklch(0.055 0.008 270);
+  --surface: oklch(0.09 0.008 270);
+  --ember: oklch(0.72 0.16 45);
+  --ember-glow: oklch(0.85 0.18 45);
+  --depth: oklch(0.62 0.10 235);
+  --warm-white: oklch(0.93 0.03 70);
+  --dim: oklch(0.55 0.02 70);
+  --mono: oklch(0.20 0.005 270);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+html.lenis-smooth {
+  scroll-behavior: smooth;
+}
+
+html.lenis-smooth html {
+  scroll-behavior: smooth;
+}
+
+/* Lenis: keep the native bar */
+html.lenis-scrolling {
+  /* no-op; Lenis handles it */
+}
+
+body {
+  background: var(--bg);
+  color: var(--warm-white);
+  font-family: 'Sora', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Never hide content by default — JS applies hidden states at runtime. */
+.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Focus rings — visible, on-brand, never default blue */
+:focus-visible {
+  outline: 2px solid var(--ember-glow);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Custom scrollbar — thin, warm, on dark */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: oklch(0.20 0.01 270);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ember);
+}
+
+/* Selection */
+::selection {
+  background: oklch(0.72 0.16 45 / 0.35);
+  color: var(--warm-white);
+}
+
+/* Utility: tabular numerals, curly quotes, real dashes */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+.dash::before {
+  content: '—';
+  color: var(--dim);
+  margin: 0 0.5em;
+}
+
+/* Film grain overlay — fixed, subtle, never distracts from content.
+   Sits above the canvas, below the cursor. Pure CSS noise. */
+.grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 40;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  mix-blend-mode: overlay;
+  will-change: opacity;
+}
+
+/* Vignette — darkens the edges so the eye lands in the centre. */
+.vignette {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 39;
+  background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.55) 100%);
+}
+
+/* Reduced motion — calm, not nothing */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  html.lenis-smooth {
+    scroll-behavior: auto;
+  }
+}
+
+/* Print */
+@media print {
+  body { background: #fff; color: #000; }
+}
